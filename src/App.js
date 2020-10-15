@@ -7,6 +7,8 @@ import AuthorsList from "./AuthorsList";
 import AuthorDetail from "./AuthorDetail";
 import Signup from "./SignupForm";
 import Login from "./LoginForm";
+import Logout from "./Logout";
+
 
 const App = () => (
   <div id="app" className="container-fluid">
